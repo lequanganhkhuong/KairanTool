@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KairanTool", "KairanTool.csproj", "{AE336C49-3B82-4F34-A563-FC5E9A4AAC47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE336C49-3B82-4F34-A563-FC5E9A4AAC47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE336C49-3B82-4F34-A563-FC5E9A4AAC47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE336C49-3B82-4F34-A563-FC5E9A4AAC47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE336C49-3B82-4F34-A563-FC5E9A4AAC47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
